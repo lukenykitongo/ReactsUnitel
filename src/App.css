@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.avatar {
+  border-radius: 50%;
+}
+.boatt{
+  margin-left: 21px;
+  padding: 10px;
+  border-radius: 30px;
+ cursor: pointer;
+ background-color: #61dafb;
+
+}
+.boatt:hover{
+  transform: scale(1.1);
+  background-color: aqua;
+  transition: 0.5s;
+  
+
+}
+div{
+  margin-left: 30px;
+}
+
